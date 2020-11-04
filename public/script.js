@@ -1,8 +1,7 @@
 
-
 function getRestaurantArr(jsonFromServer){
     console.log('jsonFromServer',jsonFromServer);
     
     const name = [];
-    fetch(jsonFromServer).then()
+    fetch(jsonFromServer).then(arr)
 }
